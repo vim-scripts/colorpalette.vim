@@ -1,0 +1,23 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=596
+
+A very simple range of colors to color words or line temporarily... 
+
+http://www.intratel.es/cubica/dominios/joyasur/gtemp/cp.jpg
+
+"USAGE:
+
+"To see the Palette of colors:
+        "normal mode: ;p
+        "command: Palette
+"To select a color:
+        "normal mode: <RightMouse> or <Up> <Down> arrows 
+"To color a word or a line:
+        "normal mode for background: <Space>
+        "normal mode for foreground: <M-Space>
+        "visual mode for background: <RightMouse>
+        "visual mode for foreground: <M-RightMouse>
+"Color HEX and RGB information:
+        "normal mode: i
+        "popup menu: info color
+
+"Note: To see in Status-Line the color that has been selected --don´t forget to change the default number of "User".
